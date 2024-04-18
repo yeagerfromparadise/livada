@@ -1,0 +1,89 @@
+body{
+    margin: 0;
+    min-height: 95vh;
+    background: linear-gradient(rgba(255, 255, 255, 0.63), rgba(247, 240, 240, 0.664)), url(..//images/i1.jpg);
+}
+
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    color: rgb(2, 71, 2);
+}
+div{
+    color: rgb(34, 3, 3);
+   
+} 
+header{
+    background-image: linear-gradient(rgb(53, 82, 53), rgb(111, 126, 111));
+    height: 50px;
+    
+}
+.d1{
+    color: rgb(235, 255, 215);
+    margin: 0;
+    padding-top: 10px;
+    padding-top: 10px;
+    height: 30px;
+}
+
+
+footer{
+    background-image: radial-gradient( green, rgb(231, 120, 139));
+    height: 50px;
+    text-align: center;
+    color: black;
+  
+}
+main{
+    height: 90vh;}
+
+   
+.d2{
+    text-align: center;
+    font-size: 18px;
+    text-shadow: 0 0 3px #ff8000;
+    
+}
+.p1{
+    font-size: 18px;
+    width: 90%;
+   margin-left: 100px;
+}
+.p2{
+   
+    padding-top: 13px;
+
+}
+.d3{
+   overflow: auto;
+   position: relative;
+   background-color: rgb(148, 236, 214);
+   width: 120px;
+   height: 130px;
+   float: right;
+   margin-right: 40px;
+padding-left: 9px;
+
+  
+}
+.d4{
+position: absolute;
+right: 2px;
+bottom: 1px;
+background-color: white;
+margin-top: 92px;
+height: 20px;
+}
+div.d5{
+    position: fixed;
+    top: 10px;
+    right: 60px;
+    width: 40px;
+    
+   
+  }
+  img{
+    height: 70px;
+
+  }
